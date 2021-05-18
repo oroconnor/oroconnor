@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 Hello. My name is Owen O’Connor. I'm a project manager and programmer, with a passion for statistical computing and water/air quality data. 
 
-Code Portfolio:\
-  R:\
-  R Shiny:\
-  Python:\
-  Java:
+Code Portfolio:
+>>>R:\
+     R Shiny:\
+     Python:\
+     Java:
   
 My Blog: https://oroconnor.github.io/td/
 
 Want to reach me?
-  Email: oroconnor@gmail.com\
-  LinkedIN: https://www.linkedin.com/in/owen-o-connor-80603b10/
+>>>Email: oroconnor@gmail.com\
+     LinkedIN: https://www.linkedin.com/in/owen-o-connor-80603b10/
