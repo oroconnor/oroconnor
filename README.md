@@ -26,4 +26,4 @@ My Blog: https://oroconnor.github.io/td/
 
 Want to reach me?
 >    Email: oroconnor@gmail.com\
-     LinkedIN: https://www.linkedin.com/in/owen-o-connor-80603b10/
+     LinkedIN: www.linkedin.com/in/owen-oconnor
