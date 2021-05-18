@@ -20,7 +20,7 @@ Code Portfolio:\
   R:\
   R Shiny:\
   Python:\
-  Java:\
+  Java:
   
 My Blog: https://oroconnor.github.io/td/
 
