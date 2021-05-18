@@ -1,4 +1,4 @@
-### Hi there 👋
+### Pleased to meet you
 
 <!--
 **oroconnor/oroconnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello. My name is Owen O’Connor. I'm a project manager and programmer, with a passion for statistical computing and water/air quality data. 
+
+Code Portfolio:
+  R:
+  R Shiny:
+  Python:
+  Java: 
+  
+My Blog: 
+
+Want to reach me?
+  Email: oroconnor@gmail.com
+  LinkedIN: https://www.linkedin.com/in/owen-o-connor-80603b10/
