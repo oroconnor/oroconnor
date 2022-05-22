@@ -22,8 +22,9 @@ Code Portfolio:
      Python:\
      Java:
   
-My Blog: https://oroconnor.github.io/td/
+My Website: www.tributarydata.com
 
 Want to reach me?
 >    Email: oroconnor@gmail.com\
      LinkedIN: www.linkedin.com/in/owen-oconnor
+     
