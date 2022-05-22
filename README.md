@@ -20,7 +20,7 @@ Code Portfolio:
 >    R:\
      R Shiny:\
      Python:\
-     Java:
+     Java: https://github.com/oroconnor/SUNYUlster_ComputerScience/tree/main/Stream
   
 My Website: www.tributarydata.com
 
