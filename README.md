@@ -18,9 +18,9 @@ Hello. My name is Owen O’Connor. I'm a project manager and programmer, with a 
 
 Code Portfolio:
 >    R:\
-     R Shiny:[https://github.com/oroconnor/AMNC_live]\ 
+     R Shiny: https://github.com/oroconnor/AMNC_live <br />
      Python:\
-     Java: [https://github.com/oroconnor/SUNYUlster_ComputerScience/tree/main/Stream]
+     Java: https://github.com/oroconnor/SUNYUlster_ComputerScience/tree/main/Stream
   
 My Website: www.tributarydata.com
 
