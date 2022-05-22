@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 Hello. My name is Owen O’Connor. I'm a project manager and programmer, with a passion for statistical computing and water/air quality data. 
 
-Code Portfolio:
+Code Portfolio Selections:
 >    R:\
      R Shiny: https://github.com/oroconnor/AMNC_live <br />
-     Python:\
      Java: https://github.com/oroconnor/SUNYUlster_ComputerScience/tree/main/Stream
   
 My Website: www.tributarydata.com
