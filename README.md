@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hello. My name is Owen O’Connor. I'm a project manager and programmer, with a passion for statistical computing and water/air quality data. 
 
 Code Portfolio Selections:
->    R: https://github.com/oroconnor/Blab/blob/main/chart_code/2021year_summary.Rmd <br />
+>    R: [https://github.com/oroconnor/AirReport](https://github.com/oroconnor/AirReport) <br />
      R Shiny: https://github.com/oroconnor/AMNC_live <br />
      Python: https://github.com/oroconnor/CS345-Project/blob/main/notebooks/finalreport.ipynb <br />
      Java: [https://github.com/oroconnor/StreamJava/tree/main](https://github.com/oroconnor/StreamJava/tree/main)
