@@ -18,8 +18,7 @@ Hello. My name is Owen O’Connor. I'm a project manager and programmer, with a 
 
 Code Portfolio Selections:
 >    R: [https://github.com/oroconnor/AirReport](https://github.com/oroconnor/AirReport) <br />
-     R Shiny: https://github.com/oroconnor/AMNC_live <br />
-     Python: https://github.com/oroconnor/CS345-Project/blob/main/notebooks/finalreport.ipynb <br />
+     Python: [https://github.com/oroconnor/CS345-Project/blob/main/README.md](https://github.com/oroconnor/CS345-Project/blob/main/README.md) <br />
      Java: [https://github.com/oroconnor/StreamJava/tree/main](https://github.com/oroconnor/StreamJava/tree/main)
   
 My Website: www.tributarydata.com
