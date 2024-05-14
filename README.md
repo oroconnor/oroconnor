@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello. My name is Owen O’Connor. I'm a project manager and programmer, with a passion for statistical computing and water/air quality data. 
+Hello. My name is Owen O’Connor. I'm a project manager and programmer, with a passion for statistical computing and environmental monitoring data. 
 
 Code Portfolio Selections:
 >    R: [https://github.com/oroconnor/AirReport](https://github.com/oroconnor/AirReport) <br />
