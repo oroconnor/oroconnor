@@ -18,6 +18,7 @@ Hello. My name is Owen O’Connor. I'm a project manager and programmer, with a 
 
 Code Portfolio Selections:
 >    R: [https://github.com/oroconnor/AirReport](https://github.com/oroconnor/AirReport) <br />
+     R Shiny and Date Visualisation: https://github.com/oroconnor/RShiny_and_other_Visuals <br />
      Python: [https://github.com/oroconnor/CS345-Project](https://github.com/oroconnor/CS345-Project) <br />
      Java: [https://github.com/oroconnor/StreamJava/tree/main](https://github.com/oroconnor/StreamJava/tree/main)
   
