@@ -22,7 +22,6 @@ Code Portfolio Selections:
      Python: [https://github.com/oroconnor/CS345-Project](https://github.com/oroconnor/CS345-Project) <br />
      Java: [https://github.com/oroconnor/StreamJava/tree/main](https://github.com/oroconnor/StreamJava/tree/main)
   
-My Website: www.tributarydata.com
 
 Want to reach me?
 >    Email: oroconnor@gmail.com\
