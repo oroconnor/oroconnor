@@ -5,9 +5,9 @@
 
 [Bard Center For Environmental Sciences and Humanities](https://github.com/oroconnor/oroconnor/blob/main/Portfolio/BardCESH.md)
 
-Roe Jan Watershed Council
+[Roe Jan Watershed Council](https://github.com/oroconnor/oroconnor/blob/main/Portfolio/RoeJan.md)
 
-Sawkill Watershed 
+[Sawkill Watershed](https://github.com/oroconnor/oroconnor/blob/main/Portfolio/SawkillWatershed.md)
 
 ### College Computer Science Projects
 
