@@ -11,11 +11,11 @@
 
 ### College Computer Science Projects
 
-Mann Kendall Java Program
+[Mann Kendall Java Program](https://github.com/oroconnor/oroconnor/blob/main/Portfolio/MannKendall.md)
 
-National Estuarine Reserve Big Data Project
+[National Estuarine Reserve Big Data Project](https://github.com/oroconnor/oroconnor/blob/main/Portfolio/MapReduce.md)
 
-Dry Bean Classification
+[Dry Bean Classification](https://github.com/oroconnor/oroconnor/blob/main/Portfolio/DryBeans.md)
 
 ### Other Consulting
 
