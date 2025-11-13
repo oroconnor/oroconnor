@@ -22,6 +22,14 @@
 [Cornell Cooperative Extension and Carey Institute](https://github.com/oroconnor/oroconnor/blob/main/Portfolio/SoilFlux.md)
 
 ### Skills
-
+- R
+- Python
+- Git / Version Control
+- Shiny
+- Java
+- Machine Learning
+- REST APIs
+- Software Testing
+  
 ### For More Info
 For more info on work history, coursework, and how to contact me: [LinkedIN](https://www.linkedin.com/in/owenroconnor/?trk=opento_sprofile_details)
