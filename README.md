@@ -1,29 +1,35 @@
 ### Pleased to meet you
 
-<!--
-**oroconnor/oroconnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello. My name is Owen O’Connor. I'm a programmer and project manager, with a passion for statistical computing and environmental monitoring data. 
 
-Here are some ideas to get you started:
+## Selected :droplet: Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hello. My name is Owen O’Connor. I'm a project manager and programmer, with a passion for statistical computing and environmental monitoring data. 
 
-Code Portfolio Selections:
->    R: [https://github.com/oroconnor/AirReport](https://github.com/oroconnor/AirReport) <br />
-     Shiny Apps and Data Visualisation: https://github.com/oroconnor/RShiny_and_other_Visuals <br />
-     Python: [https://github.com/oroconnor/CS345-Project](https://github.com/oroconnor/CS345-Project) <br />
-     Java: [https://github.com/oroconnor/StreamJava/tree/main](https://github.com/oroconnor/StreamJava/tree/main)
+### Consulting Work
+>    [Bard Center For Environmental Sciences and Humanities](https://github.com/oroconnor/oroconnor/blob/main/Portfolio/BardCESH.md)  
+     [Roe Jan Watershed Council](https://github.com/oroconnor/oroconnor/blob/main/Portfolio/RoeJan.md)  
+     [Sawkill Watershed](https://github.com/oroconnor/oroconnor/blob/main/Portfolio/SawkillWatershed.md)  
+
+### College Computer Science Projects
+>    [Mann Kendall Java Program](https://github.com/oroconnor/oroconnor/blob/main/Portfolio/MannKendall.md)  
+[National Estuarine Reserve Big Data Project](https://github.com/oroconnor/oroconnor/blob/main/Portfolio/MapReduce.md)  
+[Dry Bean Classification](https://github.com/oroconnor/oroconnor/blob/main/Portfolio/DryBeans.md)
+
+### Other Consulting
+
+>    [Cornell Cooperative Extension and Carey Institute](https://github.com/oroconnor/oroconnor/blob/main/Portfolio/SoilFlux.md)
+
+### Skills
+- R
+- Python
+- Git / Version Control
+- Shiny
+- Java
+- Machine Learning
+- REST APIs
+- Software Testing
   
-
-Want to reach me?
->    Email: oroconnor@gmail.com\
-     LinkedIN: www.linkedin.com/in/owen-oconnor
+### For More Info
+For more info on work history and coursework: [LinkedIn](https://www.linkedin.com/in/owenroconnor/?trk=opento_sprofile_details)  
+You can reach me at: oroconnor@gmail.com
      
