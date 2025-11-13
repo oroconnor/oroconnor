@@ -32,4 +32,5 @@
 - Software Testing
   
 ### For More Info
-For more info on work history, coursework, and how to contact me: [LinkedIN](https://www.linkedin.com/in/owenroconnor/?trk=opento_sprofile_details)
+For more info on work history and coursework: [LinkedIN](https://www.linkedin.com/in/owenroconnor/?trk=opento_sprofile_details)
+You can reach me at: oroconnor@gmail.com
