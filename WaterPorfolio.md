@@ -3,7 +3,7 @@
 
 ### Consulting Work
 
-Bard Center For Environmental Sciences and Humanities
+[Bard Center For Environmental Sciences and Humanities](https://github.com/oroconnor/oroconnor/blob/main/Portfolio/BardCESH.md)
 
 Roe Jan Watershed Council
 
