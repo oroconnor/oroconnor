@@ -19,7 +19,7 @@
 
 ### Other Consulting
 
-Cornell Cooperative Extension and Carey Institute
+[Cornell Cooperative Extension and Carey Institute](https://github.com/oroconnor/oroconnor/blob/main/Portfolio/SoilFlux.md)
 
 ### Skills
 
