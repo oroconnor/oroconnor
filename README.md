@@ -33,3 +33,4 @@ Hello. My name is Owen O’Connor. I'm a programmer and project manager, with a 
 For more info on work history and coursework: [LinkedIn](https://www.linkedin.com/in/owenroconnor/?trk=opento_sprofile_details)  
 You can reach me at: oroconnor@gmail.com
      
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,figma, git,java, postgres,py, r, sklearn)](https://skillicons.dev)
